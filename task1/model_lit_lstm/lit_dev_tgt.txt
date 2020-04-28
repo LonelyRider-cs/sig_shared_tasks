@@ -1,0 +1,450 @@
+lit ɐ bʲ ɛ j ɪ n ɡʲ ɛ sʲ nʲ ɪ s lit
+lit ɐ bʲ eː tʲ sʲ eː lʲ eː j ɛ lit
+lit ɐ bʲ eː tʲ sʲ eː lʲ eː s lit
+lit ɐ j rʲ ɪ ʃ k ɐ j sʲ ɛ j s lit
+lit ɐ j rʲ ɪ ʃ k o j ɛ lit
+lit ɐ j rʲ ɪ ʃ k aː lit
+lit ɐ k l ɐ sʲ ɪ s lit
+lit aː nʲ ɡʲ lʲ ɪ ʃʲ kʲ j ɛ sʲ j e m s lit
+lit ɐ pʲ ɪ pʲ j æ uː sʲ tʲ iː m ʊ lit
+lit ɐ p l ɐ j ʒ iː t ɪ lit
+lit ɐ rʲ xʲ iː ʋ ɐ j lit
+lit ɐ r mʲ eː nʲ ɪ j ɛ lit
+lit ɐ r mʲ eː nʲ ɪ j ɛ j lit
+lit ɐ tʲ ɪ d u ɔ sʲ ɛ nʲ tʲ j ɛ j ɪ lit
+lit ɐ tʲ ɪ d u ɔ sʲ ɛ nʲ tʲ ʃʲ o j o j ɛ lit
+lit ɐ tʲ ɪ d u ɔ sʲ ɛ nʲ tʲ ʃʲ o m s lit
+lit ɐ t kʲ ɛ lʲ æ ʊ j ɛ nʲ tʲ ʃʲ o mʲ ɪ s lit
+lit ɐ tʲ kʲ ɛ lʲ æ ʊ tʲ ɪ lit
+lit ä ʊ̯ ɡ oː lit
+lit ɐ ʊ k ʃ t ɐ j tʲ ɪ ʃ k ɐ j lit
+lit ɐ ʊ k ʃ t ɐ j tʲ ɪ ʃ k ɐ j s lit
+lit ɐ ʊ k ʃ t ɐ j tʲ ɪ ʃ k ɐ s lit
+lit ɐ ʊ k ʃ t ɐ j tʲ ɪ ʃ k o lit
+lit ɐ ʊ k ʃ t ɐ j tʲ ɪ ʃ k o mʲ ɪ s lit
+lit ɐ ʊ k ʃ t ɐ j tʲ ɪ ʃ k o sʲ o sʲ ɛ lit
+lit ɐ ʊ k ʃ t ɐ j tʲ ɪ ʃ k uː lit
+lit ɐ ʊ k ʃ t ɐ j tʲ eː s lit
+lit ɐ ʊ sʲ ɪ s lit
+lit b ɐ l s ɐ j lit
+lit bʲ ɛ dʲ j ɛ ʋʲ ɪ ʃʲ kʲ æː ʊ sʲ j ɛ sʲ j ɛ m s lit
+lit bʲ ɛ dʲ j ɛ ʋʲ ɪ ʃ k ʊ m aː lit
+lit bʲ ɛ k r ɐ uː j ɪ s lit
+lit bʲ ɛ ʋʲ ɛ rʲ tʲ ɪ s lit
+lit bʲ lʲ ɪ z ɡ ɐ nʲ tʲ ʃʲ ʊ o j ʊ lit
+lit b l o ɡ ɐ j sʲ ɛ j s lit
+lit b l oː ɡ ɐ j ɛ j lit
+lit b l o ɡʲ ɛ sʲ nʲ ɛ mʲ ɛ lit
+lit b l o ɡʲ æː ʊ sʲ ɛ lit
+lit b l o ɡʲ æː ʊ sʲ ɛ j ɛ j lit
+lit b l o ɡʲ æː ʊ sʲ o sʲ ɛ lit
+lit b l o ɡʲ j ɛ m s lit
+lit b l oː ɡ o lit
+lit b l o ɡ u ɔ sʲ ʊ s lit
+lit b ɾ oː lʲ ɛ j s lit
+lit b ɾ oː lʲ ʊ o sʲ ɛ lit
+lit b ʊ l d o ɡ ɐ m s lit
+lit b ʊ l d o ɡ uː lit
+lit b ʊ l ɡ aː rʲ ɪ j o s lit
+lit b ʊ ʋ ʊ sʲ ɛ lit
+lit b ʊ ʋ ʊ sʲ ɛ j ɛ j lit
+lit b ʊ ʋ ʊ sʲ o j ɛ lit
+lit bʲ iː bʲ ɪ s lit
+lit bʲ eː ɡ ɐ nʲ tʲ ʃʲ o sʲ o m s lit
+lit bʲ eː ɡ ɐ nʲ tʲ ʃʲ ʊ s lit
+lit bʲ eː ɡʲ sʲ ɛ nʲ tʲ ʃʲ ɛ mʲ ɛ lit
+lit b uː d ɐ ʋ ʊ sʲ o s lit
+lit b u sʲ ɛ nʲ tʲ j ɛ j ɪ lit
+lit b u sʲ ɛ nʲ tʲ ʃʲ o j o lit
+lit d̪ ɐ b ɐ r lit
+lit d a j k t ɐ s lit
+lit d ɐ j n u ɔ j ɐ nʲ tʲ ɪ s lit
+lit d ɐ j n u ɔ j ɛ nʲ tʲ ʃʲ o j ɛ lit
+lit d ɐ j n u ɔ j ɛ nʲ tʲ ʃʲ o mʲ ɪ s lit
+lit d ɐ j n u ɔ j ɛ nʲ tʲ ʃʲ uː lit
+lit d aː nʲ ɪ j ɛ lit
+lit d aː nʲ ɪ j o s lit
+lit d aː nʲ ɪ j æː lit
+lit d aː nʲ ɪ ʃ k aː j ɛ lit
+lit d aː ʋ ʊ sʲ æː lit
+lit dʲ æ̌ː ʃ ɪ m t lit
+lit dʲ j ɛ ʋʲ ɪ ʃʲ kʲ æː ʊ sʲ o sʲ o mʲ ɪ s lit
+lit dʲ j ɛ ʋʲ ɪ ʃ k ʊ m ɐ s lit
+lit dʲ j ɛ ʋʲ ɪ ʃ k ʊ m uː lit
+lit dʲ j ɛ ʋʲ ɪ ʃ k ʊ o j ʊ lit
+lit dʲ j ɛ ʋʲ ɪ ʃ k aː j ɛ lit
+lit d u ɔ d ɐ nʲ tʲ ɪ lit
+lit d u ɔ d ɐ ʋ ʊ sʲ o sʲ ɛ lit
+lit d u ɔ d ɐ ʋ ʊ sʲ uː j uː lit
+lit dʲ eː mʲ eː m s lit
+lit ɛ ɪ̯ˑ k lit
+lit ɛ jː tʲ ɪ lit
+lit ɛ j ɛ k ʊ lʲ u o j ɛ nʲ tʲ ʃʲ ʊ o j ʊ lit
+lit ɛ pʲ ɪ t͡sʲ ɛ nʲ tʲ rʲ ɛ lit
+lit ɛ s ɐ nʲ tʲ j ɛ j ɪ lit
+lit ɛ s ɐ nʲ tʲ ʃʲ æ lit
+lit ɛ ʋ ɐ nʲ ɡʲ ɛ lʲ ɪ j ɛ lit
+lit æː ʒʲ ɛ ɾ o lit
+lit æː ʒʲ ɛ ɾ ʊ lit
+lit æː ʒʲ ɛ ɾ ʊ s lit
+lit æː ʒʲ ɛ ɾ aː lit
+lit ɡ ɐ ɪ̯ˑ s̪ r ɐ s̪ lit
+lit ɡ aː lʲ ɪ nʲ tʲ ʃʲ ɛ j lit
+lit ɡ aː lʲ ɪ nʲ tʲ ʃʲ ɛ mʲ ɛ lit
+lit ɡ aː lʲ ɪ nʲ tʲ ʃʲ o lit
+lit ɡ aː lʲ ɪ nʲ tʲ ʃʲ o j ɛ lit
+lit ɡ ɐ lʲ eː d ɐ m o s lit
+lit ɡ aː lʲ iː lit
+lit ɡ aː tʲ ʋʲ eː s lit
+lit ɡ aː tʲ ʋʲ æː lit
+lit ɡ a ʊ tʲ ɪ lit
+lit ɡʲ ɛ t ɐ s lit
+lit ɡʲ ɛ t aː lit
+lit ɡʲ ɪ lʲ ɛ sʲ nʲ oː j o j ɛ lit
+lit ɡʲ ɪ lʲ o j o lit
+lit ɡʲ ɪ lʲ uː j uː lit
+lit ɡʲ ɪ lʲ eː lit
+lit ɡ r ɐ j kʲ ɪ ʃ k o j ɪ lit
+lit ɡ ɾ aː ʒʲ æː j æː lit
+lit ɡ ɾ ɛ j t ɐ j sʲ ɛ j s lit
+lit ɡ ɾ ɛ j t u ɔ sʲ ʊ s lit
+lit ɡ ʊ lʲ bʲ ɛ s lit
+lit ɡʲ îː s l ɐ lit
+lit h ɐ lʲ ʊ tʲ sʲ ɪ n aː ʋ ʊ sʲ ɛ s lit
+lit h ɐ lʲ ʊ tʲ sʲ ɪ n u o d ɐ ʋ ʊ sʲ o j o lit
+lit h ɐ lʲ ʊ tʲ sʲ ɪ n u o sʲ ɛ nʲ tʲ ʃʲ ɛ j s lit
+lit ɪ s p aː nʲ ɪ ʃ k aː sʲ ɛ s lit
+lit ɪ t aː lʲ ɪ ʃ k ɐ lit
+lit ɪ t aː lʲ ɪ ʃ k ɐ j lit
+lit ɪ t aː lʲ ɪ ʃ k ɐ j s lit
+lit ɪ t aː lʲ ɪ ʃ k ɐ s lit
+lit ɪ t aː lʲ ɪ ʃʲ kʲ ɪ lit
+lit ɪ t aː lʲ ɪ ʃʲ kʲ j ɛ m s lit
+lit ɪ t aː lʲ ɪ ʃ k o lit
+lit ɪ t aː lʲ ɪ ʃ k o j o j ɛ lit
+lit ɪ t aː lʲ ɪ ʃ k o mʲ ɪ s lit
+lit ɪ t aː lʲ ɪ ʃ k o s lit
+lit ɪ t aː lʲ ɪ ʃ k o sʲ o s lit
+lit ɪ t aː lʲ ɪ ʃ k ʊ lit
+lit ɪ t aː lʲ ɪ ʃ k ʊ o sʲ ɛ lit
+lit ɪ t aː lʲ ɪ ʃ k ʊ s lit
+lit ɪ t aː lʲ ɪ ʃ k aː lit
+lit ɪ t aː lʲ ɪ ʃ k uː lit
+lit ɪ ʃ d u ɔ sʲ ɛ nʲ tʲ ʃʲ ɛ m lit
+lit ɪ ʃʲ kʲ ɛ lʲ æ ʊ j ɛ nʲ tʲ ʃʲ uː j uː lit
+lit ɪ ʃ t ɐ t ʊ ɪ r aː ʋ ʊ sʲ ɛ mʲ ɛ lit
+lit ɪ ʃ t ɐ t ʊ ɪ r aː ʋ ʊ sʲ o sʲ o s lit
+lit j ɐ u n ʊ ɔ lʲ ɪ s lit
+lit j æ j ɡ ʊ lit
+lit j ɪ lit
+lit j o k s lit
+lit k ɐ d aː ŋ ɡ ɪ lit
+lit k ɐ l b ɐ lit
+lit k ɐ l b ɐ mʲ ɛ lit
+lit k ɐ l b ɐ nʲ tʲ ʃʲ ɛ lit
+lit k ɐ l b ɐ nʲ tʲ ʃʲ o j o lit
+lit k ɐ l b ɐ tʲ ɛ lit
+lit k ɐ l bʲ ɪ lit
+lit k ɐ l b ʊ lit
+lit k ɐ l b aː s lit
+lit k ɐ lʲ bʲ eː d ɐ m ɐ s lit
+lit k ɐ l bʲ eː tʲ ɪ lit
+lit k ɐ l n uː lit
+lit k ɐ m u ə lʲ ǐː s̪ lit
+lit k ɐ pʲ ʃʲ æː lʲ iː j ɛ lit
+lit k aː t ɪ n ɐ s lit
+lit k ɐ tʲ eː mʲ ɪ s lit
+lit k a ʊ k o l eː lit
+lit k ɐ tʲ ʃʲ uː lit
+lit kʲ ɛ lʲ æ ʊ j ɛ nʲ tʲ ʃʲ ɛ j lit
+lit kʲ ɛ lʲ æ ʊ j ɛ nʲ tʲ ʃʲ o s lit
+lit k ɛ lʲ oː n eː lit
+lit kʲ æ ʊ nʲ eː lit
+lit k l ɐ j dʲ ɪ nʲ ɡʲ æː ʊ sʲ ɛ m lit
+lit k l ɐ j dʲ ɪ n ɡ ʊ s lit
+lit kʲ nʲ iː ɡ ɐ j lit
+lit k o mʲ pʲ ʊ tʲ ɛ rʲ ʊ lit
+lit k ɔ r p ɔ r aː t s ɪ j ɛ lit
+lit k oː ʃʲ eː s lit
+lit k r ɐ ʊ̯ j æː ɡʲ iː sʲ lʲ eː lit
+lit k uː n ʊ lit
+lit l aː pʲ ɛ j lit
+lit l aː tʲ ʋʲ ɪ s lit
+lit l aː tʲ ʋʲ ɪ ʃ k o sʲ o s lit
+lit l ɐ ʋ oː n ɐ j s lit
+lit l ɐ z d ɐ lit
+lit l aː z d aː lit
+lit l ɛ ŋ k ɐ s lit
+lit lʲ ɛ ʊ̯ d ɪ s lit
+lit lʲ j ɛ t ʊ ʋʲ ɪ s lit
+lit lʲ j ɛ t ʊ ʋʲ ɪ ʃ k ɐ lit
+lit lʲ j ɛ t ʊ ʋʲ ɪ ʃ k ɐ j ɛ j lit
+lit lʲ j ɛ t ʊ ʋʲ ɪ ʃ k ɐ m lit
+lit lʲ j ɛ t ʊ ʋʲ ɪ ʃ k o j o lit
+lit lʲ j ɛ t ʊ ʋʲ ɪ ʃ k o j o j ɛ lit
+lit lʲ j ɛ t ʊ ʋʲ ɪ ʃ k aː j iː lit
+lit lʲ j ɛ t ʊ ʋʲ ɪ ʃ k uː lit
+lit l oː ʋ ɐ s lit
+lit m aː t ɐ nʲ tʲ iː lit
+lit m aː t ɐ nʲ tʲ ʃʲ ɛ j ɛ m lit
+lit m aː t ɐ nʲ tʲ ʃʲ uː lit
+lit m ɐ ʒʲ ɛ sʲ nʲ æː j ɛ mʲ ɛ lit
+lit m ɐ ʒʲ ɛ sʲ nʲ iː sʲ ɪ s lit
+lit m ɐ ʒʲ æː ʊ sʲ ʊ o sʲ ʊ s lit
+lit m ɐ ʒʲ æː ʊ sʲ uː j uː lit
+lit m ɐ ʒʲ j ɛ j ɪ lit
+lit m ɐ ʒ oː j o j ɛ lit
+lit m ɐ ʒ u ɔ sʲ ʊ s lit
+lit m æː d ɪ lit
+lit m æː d ʒ ʊ ɪ lit
+lit mʲ æː j lʲ ɛ s lit
+lit mʲ ɛ nʲ ɪ ʃʲ kʲ ɛ sʲ nʲ æː j ɛ mʲ ɛ lit
+lit mʲ ɛ nʲ ɪ ʃʲ kʲ æː ʊ sʲ ɛ j ɛ mʲ ɛ lit
+lit m o kʲ iː k l o m s lit
+lit m o kʲ iː k l o s lit
+lit m oː tʲ ɛ ɾʲ ɪ ʃ k o j o lit
+lit m oː tʲ ɛ rʲ i s lit
+lit m ʊ m ɪ s lit
+lit mʲ i lʲ ɪ lit
+lit mʲ iː lʲ ɪ nʲ tʲ ʃʲ ʊ lit
+lit mʲ iː lʲ ɪ nʲ tʲ ʃʲ æː lit
+lit mʲ iː lʲ ʊ lit
+lit mʲ iː lʲ eː d ɐ m ɐ s lit
+lit mʲ i lʲ eː j ɔ lit
+lit mʲ iː lʲ eː j æː s lit
+lit mʲ iː lʲ eː sʲ ɛ nʲ tʲ ʃʲ ʊ o sʲ ʊ o sʲ ɛ lit
+lit mʲ i lʲ eː tʲ ɪ lit
+lit mʲ iː lʲ iː s lit
+lit mʲ eː n ʊ lʲ ɪ s lit
+lit n ɐ ɾ k o tʲ ɪ k ɐ s lit
+lit n ɐ ʊ d oː t o j ʊ s lit
+lit n ɐ ʊ d oː t o j uː lit
+lit nʲ ɛ bʲ ɛ pʲ rʲ ɪ sʲ ɪ kʲ ɪ ʃʲ kʲ ɛ k o p uː sʲ tʲ ɛ lʲ æ ʋʲ æː lit
+lit nʲ ɛ k r o l o ɡ aː lit
+lit nʲ ɛ t ʋ ɐ ɾʲ kʲ ɪ nʲ ɡʲ æː ʊ sʲ ɛ j ɛ j lit
+lit n ʊ kʲ ɛ lʲ æ ʊ j ɛ nʲ tʲ iː lit
+lit n u ɔ dʲ ɪ n ɡ ʊ o sʲ ʊ s lit
+lit n ʊ t ɐ ɾʲ ɪ m ɐ j s lit
+lit o l aː nʲ dʲ ɪ ʃ k ɐ j ɛ mʲ ɛ lit
+lit o rʲ ɡʲ ɪ ʃʲ kʲ ɛ sʲ nʲ o j o lit
+lit o rʲ ɡʲ ɪ ʃʲ kʲ ɛ sʲ nʲ æː j ɛ lit
+lit o rʲ ɡʲ ɪ ʃ k aː sʲ ɛ s lit
+lit p ɐ ɫ ɐ pʲ ɪ n̪ʲ eː lit
+lit p aː ɾ ɐ m ɐ s lit
+lit p ɐ ɾ d ɐ ʋʲ eː j ɛ ʊ lit
+lit p ɐ s l ɐ p tʲ ɪ nʲ ɡʲ ɛ sʲ nʲ æː j ɛ mʲ ɛ lit
+lit p ɐ s l ɐ p tʲ ɪ nʲ ɡʲ ɛ sʲ nʲ j ɛ sʲ j e m s lit
+lit p ɐ t ɐ ɾʲ ɪ m ɐ m s lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ ɛ sʲ nʲ ɛ lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ ɛ sʲ nʲ ɛ s lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ ɛ sʲ nʲ eː lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ ɛ sʲ nʲ eː mʲ ɪ s lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ ɛ sʲ nʲ eː m s lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ ɛ sʲ nʲ eː s lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ ɛ sʲ nʲ æː lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ æː ʊ sʲ ɪ lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ æː ʊ sʲ ɛ s lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ æː ʊ sʲ o mʲ ɪ s lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ æː ʊ sʲ o s lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ æː ʊ sʲ ʊ lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ æː ʊ sʲ ʊ o sʲ ɛ lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ æː ʊ sʲ æː lit
+lit p ɐ t ɾ ɐ ʊ kʲ lʲ æː ʊ sʲ uː lit
+lit pʲ ɛ lʲ eː d uː lit
+lit pʲ æː ɾ d ɐ ʋʲ eː j ʊ s lit
+lit pʲ i ɛ ʃ t ʊ k ʊ s lit
+lit pʲ ɪ nʲ ɡʲ ʋʲ ɪ n o lit
+lit pʲ ɪ s ɐ nʲ tʲ iː sʲ ɪ s lit
+lit pʲ ɪ s ɐ nʲ tʲ ʃʲ ɛ j ɛ m lit
+lit p ɫ ɒ ʊ̯ˑ kʲ tʲ ɪ lit
+lit p r ɐ d̪ʲ êː t̪ʲ ɪ lit
+lit p r ɐ kʲ ɛ lʲ æ ʊ j ɛ nʲ tʲ j ɛ sʲ j ɛ m s lit
+lit p r o fʲ ɛ sʲ ɪ j ɛ lit
+lit p r o fʲ ɛ sʲ ɪ j o s lit
+lit p r o fʲ ɛ sʲ ɪ j uː lit
+lit p r ɔ p ɔ r t̪͡s̪ ɪ j oː n ɐ lʲ ɛ mʲ ɛ lit
+lit p ʊ s b r o lʲ ʊ o sʲ ɛ lit
+lit p ʊ s l ɐ pʲ ʊ s lit
+lit p ʊ sʲ ɛ sʲ ɛ rʲ uː lit
+lit r aː bʲ ɪ n ɐ s lit
+lit r ɐ ʊ̯ˑ m u ə lit
+lit ɾʲ ɛ s p ʊ bʲ lʲ ɪ k ɐ j lit
+lit ɾʲ ɛ z ʊ l t aː t ɐ j lit
+lit ɾʲ ɛ z ʊ l t aː t ʊ o sʲ ɛ lit
+lit rʲ ɪ nʲ kʲ ɪ nʲ iː s lit
+lit r ʊ sʲ ɪ ʃ k o j o j ɛ lit
+lit ɾʲ iː t ɐ s lit
+lit r ûː ʃʲ ɪ s̪ lit
+lit s aː k ɐ nʲ tʲ iː lit
+lit s aː k ɐ nʲ tʲ ʃʲ ɛ s lit
+lit s aː k ɐ nʲ tʲ ʃʲ o lit
+lit s ɐ l ɐ m aː n d ɾ ɐ lit
+lit s ɐ p n a ʋ ɔ lit
+lit s ɐ p n aː ʋ ʊ sʲ ɛ lit
+lit s ɐ p n aː ʋʲ æː s lit
+lit s ɐ p n u ɔ j ɐ lit
+lit s ɐ p n u ɔ j ɐ m ɛ lit
+lit s ɐ p n u ɔ j ɐ t ɛ lit
+lit s ɐ p n u ɔ j ɪ lit
+lit s ɐ p n u ɔ j ʊ lit
+lit s ɐ p n u ɔ tʲ ɪ lit
+lit s ɐ p n uː lit
+lit s ɐ vʲ æː s lit
+lit sʲ æː n ɐ j lit
+lit sʲ ɛ n ɐ j s lit
+lit sʲ ɛ n aː m lit
+lit sʲ ɛ n ɐ mʲ ɛ lit
+lit sʲ æː n ɐ s lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ ɛ lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ ɛ s lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ ɪ lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ ɛ j s lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ æː m lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ j ɛ m s lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ o lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ ɪ s lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ ʊ lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ ʊ o sʲ ɛ lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ ʊ s lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ uː lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ eː lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ eː j ɛ lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ eː mʲ ɪ s lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ eː m s lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ eː s lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ eː sʲ ɛ lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ æː lit
+lit sʲ ɛ nʲ ɛ sʲ nʲ iː lit
+lit sʲ ɛ nʲ ɪ lit
+lit sʲ ɛ nʲ æː ʊ sʲ ɪ lit
+lit sʲ ɛ nʲ æː ʊ sʲ ɛ lit
+lit sʲ ɛ nʲ æː ʊ sʲ ɛ j lit
+lit sʲ ɛ nʲ æː ʊ sʲ ɛ j s lit
+lit sʲ ɛ nʲ æː ʊ sʲ ɛ m lit
+lit sʲ ɛ nʲ æː ʊ sʲ ɛ mʲ ɛ lit
+lit sʲ ɛ nʲ æː ʊ sʲ ɛ s lit
+lit sʲ ɛ nʲ æː ʊ sʲ j ɛ m s lit
+lit sʲ ɛ nʲ æː ʊ sʲ o lit
+lit sʲ ɛ nʲ æː ʊ sʲ o j ɛ lit
+lit sʲ ɛ nʲ æː ʊ sʲ o s lit
+lit sʲ ɛ nʲ æː ʊ sʲ o sʲ ɛ lit
+lit sʲ ɛ nʲ æː ʊ sʲ ʊ lit
+lit sʲ ɛ nʲ æː ʊ sʲ ʊ o sʲ ɛ lit
+lit sʲ ɛ nʲ æː ʊ sʲ ʊ s lit
+lit sʲ ɛ nʲ æː ʊ sʲ æː lit
+lit sʲ ɛ nʲ æː ʊ sʲ uː lit
+lit sʲ ɛ nʲ j ɛ j ɪ lit
+lit sʲ ɛ nʲ j ɛ m s lit
+lit sʲ æː n o lit
+lit sʲ ɛ n o j ɛ lit
+lit sʲ ɛ n o mʲ ɪ s lit
+lit sʲ ɛ n oː m s lit
+lit sʲ ɛ n o sʲ ɛ lit
+lit sʲ ɛ n ʊ lit
+lit sʲ ɛ n u ɔ j ʊ lit
+lit sʲ ɛ n ʊ o sʲ ɛ lit
+lit sʲ ɛ n u ɔ sʲ ʊ s lit
+lit sʲ ɛ n ʊ s lit
+lit sʲ æː n aː lit
+lit sʲ ɛ n uː lit
+lit sʲ ɛ rʲ bʲ ɪ ʃ k ɐ j ɛ j lit
+lit sʲ ɛ rʲ bʲ ɪ ʃ k ɐ s lit
+lit sʲ ɛ rʲ bʲ ɪ ʃ k o j ɛ lit
+lit sʲ ɪ n ɔ nʲ ɪ m ɐ s lit
+lit sʲ uː lʲ ɛ lit
+lit sʲ uː l ʊ s lit
+lit s k ɐ lʲ ɪ k uː lit
+lit s m ʊ lʲ kʲ mʲ ɛ n ɐ s lit
+lit s m ʊ lʲ kʲ mʲ ɛ nʲ ɪ ʃʲ kʲ ɛ sʲ nʲ u ɔ sʲ ʊ s lit
+lit s p ɐ l ʋ ɐ lit
+lit sʲ pʲ ɛ ɾ m ɐ t o z o j d ɐ j s lit
+lit sʲ pʲ ɛ ɾ m ɐ t o z o j d aː lit
+lit s r ɐ u t aː lit
+lit sʲ tʲ æː bʲ ɪ nʲ tʲ ʃʲ ɛ s lit
+lit s ʊ n ɐ ʊ d oː t o j æː lit
+lit s ʊ t ɐ ɾʲ ɪ m ɐ s lit
+lit s ʊ t ɐ ɾ tʲ ɪ lit
+lit s ʋ ɐ j oː nʲ uː lit
+lit sʲ eː dʲ ɪ nʲ tʲ ɪ lit
+lit sʲ eː dʲ ɪ nʲ tʲ ʃʲ ɛ s lit
+lit sʲ eː k l o sʲ ɛ lit
+lit t ɐ r n ʊ ɪ lit
+lit t ɐ t ʊ ɪ r aː ʋ ʊ sʲ iː sʲ ɪ s lit
+lit t ɐ t ʊ ɪ r u ɔ j ɛ nʲ tʲ ʃʲ o j ɛ lit
+lit t ɐ ʋʲ ɛ lit
+lit t ʊ rʲ kʲ ɪ ʃ k o j ɪ lit
+lit t ʋ ɐ ɾʲ kʲ ɪ nʲ ɡ æː ʊ sʲ æː j ɛ lit
+lit t ʋ ɐ ɾʲ kʲ ɪ nʲ ɡ æː ʊ sʲ æː j æː lit
+lit tʲ iː l eː tʲ ɪ lit
+lit ʊ ɡʲ nʲ ɪ nʲ ɡʲ ɛ sʲ nʲ u ɔ j ʊ lit
+lit ʊ ɡʲ nʲ ɪ n ɡ o j ɪ lit
+lit ʊ o dʲ ɛ ɡʲ ɪ k ɐ ʊ lʲ ɛ m s lit
+lit u ɔ s t ʊ o sʲ ɛ lit
+lit ʊ pʲ æː lʲ ɛ m s lit
+lit ʊ pʲ ɛ lʲ ʊ lit
+lit ʊ pʲ æː lʲ uː lit
+lit ʊ pʲ ɪ nʲ ɛ lit
+lit ʊ pʲ ɪ nʲ ɛ s lit
+lit ʊ pʲ ɪ nʲ ɛ j lit
+lit ʊ pʲ ɪ nʲ o lit
+lit ʊ pʲ ɪ nʲ ʊ lit
+lit ʊ pʲ ɪ nʲ ʊ o sʲ ɛ lit
+lit ʊ pʲ ɪ nʲ uː lit
+lit ʊ pʲ eː mʲ ɪ s lit
+lit ʊ pʲ æː lit
+lit ʋ aː j s t ʊ s lit
+lit ʋ ɐ j zʲ dʲ ɪ n ɡ ʊ m ɐ m s lit
+lit ʋ aː l ɡ ɐ nʲ tʲ ʃʲ æː j æː lit
+lit ʋ aː lʲ ɡʲ iː t o j o lit
+lit ʋ a r p a lit
+lit ʋ ɐ r t oː j ɛ nʲ tʲ iː s lit
+lit ʋ ɐ r t oː j ɛ nʲ tʲ ʃʲ o j o lit
+lit ʋ ɐ r t oː j ɛ nʲ tʲ ʃʲ ʊ s lit
+lit vʲ ɛ l k ɐ lit
+lit ʋʲ ɪ l k aː lit
+lit ʋ oː kʲ j ɛ tʲ eː s lit
+lit ʋ oː kʲ j ɛ tʲ æː lit
+lit ʋ oː kʲ ɪ ʃ k o j ɪ lit
+lit ʋ o r a lit
+lit vʲ iː zʲ dʲ ǐː s̪ lit
+lit iː d ɐ lit
+lit iː p ɐ tʲ ɪ n ɡ ɐ j ɛ m lit
+lit iː p ɐ tʲ ɪ nʲ ɡʲ æː ʊ sʲ o sʲ o m s lit
+lit iː p ɐ tʲ ɪ n ɡ ʊ o sʲ ʊ s lit
+lit tʲ ʃʲ ɛ kʲ ɪ ʃ k aː j ɛ lit
+lit iː d u ɔ d ɐ nʲ tʲ ʃʲ uː lit
+lit iː d u ɔ sʲ ɛ nʲ tʲ j ɛ sʲ j ɛ m s lit
+lit iː kʲ ɛ lʲ æ ʊ j ɛ nʲ tʲ ʃʲ o s lit
+lit iː n ɐ ɡʲ ɪ nʲ ɪ n k ʊ lit
+lit iː s p uː dʲ ɪ n ɡ o j ɪ lit
+lit iː s p uː dʲ ɪ n ɡ ʊ m ʊ ɪ lit
+lit iː t ɐ ɾʲ ɪ m uː lit
+lit iː v ɐ ɪ̯ˑ r ʊ s̪ lit
+lit iː ʋʲ iː kʲ ɛ j lit
+lit iː ʋʲ iː kʲ ɛ m s lit
+lit ʃ ɐ k o mʲ ɪ s lit
+lit ʃʲ ɛ ɾ m ʊ ɔ nʲ eː lʲ ɪ s lit
+lit ʃʲ ɪ l t ɐ s lit
+lit ʃ oː k ɐ lit
+lit ʃ oː k d ɐ ʋ o lit
+lit ʃʲ ʋʲ ɛ l n ʊ lit
+lit ʃʲ iː pʲ sʲ ɛ n a lit
+lit ʃʲ iː pʲ sʲ ɛ n u lit
+lit uː k uː lit
+lit ʒʲ ɛ m ɐ j tʲ ɪ ʃʲ kʲ j ɛ sʲ j e m s lit
+lit ʒʲ ɛ mʲ iː n ɐ j s lit
+lit ʒʲ ɛ mʲ iː n ʊ lit
+lit ʒʲ ɛ mʲ iː n ʊ o sʲ ɛ lit
+lit ʒʲ j ɛ dʲ iː n ʊ lit
+lit ʒʲ ɪ n d ʊ o lʲ u lit
+lit ʒʲ ʊ ɾʲ kʲ eː lit
+lit ʒʲ uː rʲ ɪ nʲ tʲ ʃʲ æː lit
+lit ʒ m oː ɡʲ ɪ ʃʲ kʲ j ɛ j ɪ lit
+lit ʒ m o nʲ ɪ ʃʲ kʲ ɛ sʲ nʲ oː sʲ o sʲ ɛ lit
+lit ʒ m oː nʲ ɪ ʃ k o j o lit
+lit ʒ m oː nʲ ɪ ʃ k uː j uː lit
+lit ʒ o lʲ eː sʲ ɛ lit
+lit ʒ ʋ ɐ j ɡʲ ʒʲ dʲ iː n ɐ j s lit
+lit ʒ ʋ ɐ j ɡʲ ʒʲ dʲ eː mʲ ɪ s lit
+lit ʒ ʋ ɐ j ɡʲ ʒʲ dʲ eː s lit
+lit ʒ ʋ ɐ j ɡʲ ʒʲ dʲ æː lit

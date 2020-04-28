@@ -1,0 +1,70 @@
+steps to run for OpenNMT:
+  onmt_preprocess -train_src word_src_train.txt -train_tgt ipa_tgt_train.txt -valid_src word_src_val.txt -valid_tgt ipa_tgt_val.txt -save_data saved_preprocess.low -lower
+  onmt_train -data saved_preprocess.low -save_model eng_ipa_model1 -gpu_ranks 0
+  onmt_translate -gpu 0 -model eng_ipa_model1_steps/eng_ipa_model1_step_100000.pt -src word_src_test.txt -tgt ipa_tgt_test.txt -replace_unk -verbose -output model1_step_100000_pred
+
+
+model -> complete_preprocess.low (50k steps, all languages in same file with language being the first & last element)
+  step 1000 -> acc: 35.02%
+
+  step 10000 -> acc: 97.19%
+  step 10000(dev data) -> 69.66%
+
+  step 20000 -> acc: 98.87%
+  step 20000(dev data) -> 71.08%
+
+  step 25000 -> acc: 99.23%
+
+  step 30000 -> acc: 99.25%
+  step 30000(dev data) -> acc: 70.45
+
+  step 40000 -> acc: 99.47%
+  step 40000(dev data) -> acc: 70.30%
+
+  step 50000 -> acc: 99.57%
+  step 50000(dev data) -> acc: 69.41%
+
+
+model 2 -> complete_aug_model_step_100000.p
+PRED AVG SCORE: -0.1637, PRED PPL: 1.1778
+GOLD AVG SCORE: -5.0656, GOLD PPL: 158.4732
+
+model arm
+PRED AVG SCORE: -0.0030, PRED PPL: 1.0030
+GOLD AVG SCORE: -10.5628, GOLD PPL: 38667.5698
+
+model bul
+PRED AVG SCORE: -0.0104, PRED PPL: 1.0104
+GOLD AVG SCORE: -7.6137, GOLD PPL: 2025.6609
+
+model fre
+PRED AVG SCORE: -0.0069, PRED PPL: 1.0069
+GOLD AVG SCORE: -9.3033, GOLD PPL: 10974.6861
+
+model geo
+PRED AVG SCORE: -0.0011, PRED PPL: 1.0011
+GOLD AVG SCORE: -15.1095, GOLD PPL: 3647182.8260
+
+model gre
+PRED AVG SCORE: -0.0031, PRED PPL: 1.0031
+GOLD AVG SCORE: -7.7686, GOLD PPL: 2365.1318
+
+model hin
+PRED AVG SCORE: -0.0122, PRED PPL: 1.0123
+GOLD AVG SCORE: -8.5645, GOLD PPL: 5242.2724
+
+model hun
+PRED AVG SCORE: -0.0007, PRED PPL: 1.0007
+GOLD AVG SCORE: -12.3662, GOLD PPL: 234727.6943
+
+model ice
+PRED AVG SCORE: -0.0027, PRED PPL: 1.0027
+GOLD AVG SCORE: -10.1874, GOLD PPL: 26565.5942
+
+model kor
+PRED AVG SCORE: -0.0109, PRED PPL: 1.0110
+GOLD AVG SCORE: -13.8889, GOLD PPL: 1076145.2362
+
+model lit
+PRED AVG SCORE: -0.0106, PRED PPL: 1.0107
+GOLD AVG SCORE: -6.3727, GOLD PPL: 585.6513
