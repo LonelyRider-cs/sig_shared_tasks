@@ -8,10 +8,10 @@ do
   src_train="./model_${lang_code}_lstm/${lang_code}_train_src.txt"
   tgt_train="./model_${lang_code}_lstm/${lang_code}_train_tgt.txt"
   echo $src_train
-  src_dev="./model_${lang_code}_lstm/${lang_code}_dev_src.txt"
-  tgt_dev="./model_${lang_code}_lstm/${lang_code}_dev_tgt.txt"
+  src_test="./model_${lang_code}_lstm/${lang_code}_dev_src.txt"
+  tgt_test="./model_${lang_code}_lstm/${lang_code}_dev_tgt.txt"
   echo $src_dev
-  src_test="./model_${lang_code}_lstm/${lang_code}_test_src.txt"
+  #src_test="./model_${lang_code}_lstm/${lang_code}_test_src.txt"
   #tgt_test="./model_${lang_code}_lstm/${lang_code}_test_tgt.txt"
 
   preprocess="./model_${lang_code}_lstm/${lang_code}_preprocess.low"
@@ -19,7 +19,7 @@ do
   model="./model_${lang_code}_lstm/${lang_code}_model_lstm"
   model_translate="${model}_step_50000.pt"
   echo $model_translate
-  predicted="${model}_step_50000_pred_10_best"
+  predicted="${model}_step_50000_pred_10_best_dev"
 
   #uncomment if language needs to format for openNMT
   #python transform_data.py $lang_code
@@ -35,7 +35,7 @@ do
   #wait
 
   #onmt_translate -gpu 0 -model $model_translate -src $src_test -tgt $tgt_test -replace_unk -verbose -output $predicted
-  #onmt_translate -gpu 0 -model $model_translate -src $src_test -replace_unk -verbose -n_best 10 -output $predicted
+  onmt_translate -gpu 0 -model $model_translate -src $src_test -tgt $src_test -replace_unk -verbose -n_best 10 -output $predicted
 
   #wait
 done
