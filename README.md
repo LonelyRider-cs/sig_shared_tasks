@@ -1,6 +1,6 @@
 # 2020
 
-**SIGMORPHON 2020 Shared Task 1 CU-Z Model (g2paugment.py) **
+# SIGMORPHON 2020 Shared Task 1 CU-Z Model (g2paugment.py)
 
 A data-augmentation strategy for grapheme-to-phoneme (G2P), as applied to the SIGMORPHON 2020 shared task 1:
 
