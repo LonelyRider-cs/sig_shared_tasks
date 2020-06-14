@@ -43,8 +43,7 @@ would run the augmentation on French training data and generate 10000 example pa
 
 The following figure shows roughly what kind of performance to expect with the augmentation strategy. The models were trained with the fairseq Transformer model. See paper for training details.
 
-
-
+![Results](./augmentedresults.png?raw=true "Results")
 
 
 
